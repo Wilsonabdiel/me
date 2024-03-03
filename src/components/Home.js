@@ -19,7 +19,7 @@ const Home = () => (
         </div>
         <div>
             <p>
-            Outside of programming, I have a passion for poetry. Some of my poems have been published. You can find them on [this site](ADD LINK TO SITES). Additionally, I'm an avid gamer. It would be great to connect and chat about our interests. Feel free to [contact me](LINK TO CONTACT).
+            Outside of programming, I have a passion for poetry. Some of my poems have been published. You can find them on [this site](ADD LINK TO SITES). Additionally, I'm an avid gamer. It would be great to connect and chat about our interests. Feel free to [contact me](LINK TO CONTACT)..
 
 </p>
         </div>
